@@ -1,4 +1,5 @@
 ![Снимок экрана (526)](https://github.com/Forestjaba/Dynamic_parser/assets/125629240/369696df-4748-4b57-b6bb-f6afc5d763d1)
+
 Скриншот 1 страницы, позиции совпадают:
 ![Снимок экрана (530)](https://github.com/Forestjaba/Dynamic_parser/assets/125629240/3890de25-94d8-491e-b43e-072f19b7ff31)
 ![Снимок экрана (532)](https://github.com/Forestjaba/Dynamic_parser/assets/125629240/81f60d92-a1d8-4b6c-808c-ef6e91470b37)
