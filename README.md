@@ -10,3 +10,5 @@
 
 Последующие страницы тоже совпадают, вплоть до последней 31
 ![Снимок экрана (527)](https://github.com/Forestjaba/Dynamic_parser/assets/125629240/66afe962-d580-4d58-a181-4eba54ef4823)
+
+![Снимок экрана (533)](https://github.com/Forestjaba/Dynamic_parser/assets/125629240/06cef5b6-f187-4418-b201-21c3733d1103)
